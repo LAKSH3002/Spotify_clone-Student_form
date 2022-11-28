@@ -1,0 +1,27 @@
+body{
+    background: black;
+    color:white;
+    margin:20px;
+    border:4px solid;
+}
+h1{
+    text-align:center;
+    background-color: gray;
+    padding:10px;
+    color:rgb(15, 236, 15);
+    margin:0;
+}
+h2{
+    color:gray;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+   border-bottom: solid; 
+}
+form{
+    margin:15px;
+}
+h4{
+    color:rgb(15, 15, 77);  
+}
